@@ -1,0 +1,1 @@
+{"description":"One emoji that stands for Dev, kr's personal AI agent: a compass.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"your-agent-in-one-emoji","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
